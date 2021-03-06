@@ -2,7 +2,7 @@
 
 Dockerfile for [grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe/)
 
-Binary at `/bin/grpc-health-probe`.
+Binary at `/bin/grpc_health_probe`.
 
 ## Usage
 
